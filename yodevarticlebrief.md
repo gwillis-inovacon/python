@@ -7,7 +7,7 @@ your existing publishing and indexing steps stay unchanged.
 
 
 
-This is an edit to a Github saved document. 
+This is a new edit to this document to test Workplace sync. 
 
 ***
 

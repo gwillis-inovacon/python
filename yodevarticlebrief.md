@@ -5,6 +5,10 @@
 Paste this into the yoDEV publishing project. It carries the research context;
 your existing publishing and indexing steps stay unchanged.
 
+
+
+This is an edit to a Github saved document. 
+
 ***
 
 ## The target

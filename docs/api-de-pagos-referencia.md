@@ -1,5 +1,7 @@
 # API de Pagos — Referencia
 
+> ✏️ Editado en GitHub: se corrigió la concordancia en `GET /v1/pagos`.
+
 Referencia de `pagos-api v0.3.0 (Express + Zod). URL base: http://localhost:3000 (puerto configurable con PORT). Todas las solicitudes y respuestas usan JSON.`
 
 ## Endpoints
@@ -74,7 +76,7 @@ Lista los pagos de un proyecto.
 | Campo        | Tipo   | Regla                                                            |
 | ------------ | ------ | ---------------------------------------------------------------- |
 | `proyectoId` | string | ID del proyecto                                                  |
-| `estado`     | string | Opcional: `pendiente o liberado. Si se omite, se devuelve todos` |
+| `estado`     | string | Opcional: `pendiente o liberado. Si se omite, se devuelven todos` |
 
 **Ejemplo**
 
